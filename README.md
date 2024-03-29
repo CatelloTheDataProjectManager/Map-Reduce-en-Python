@@ -24,7 +24,7 @@ Vous pouvez parcourir le code source et les exemples directement dans le fichier
 
 ## Lien vers le fichier Jupyter Notebook :
 
-Vous pouvez accéder au fichier Jupyter Notebook [ici](https://github.com/CatelloTheDataProjectManager/Map-Reduce-en-Python/blob/main/Map-Reduce%20en%20Python.ipynb).
+Vous pouvez accéder au fichier Jupyter Notebook [Map-Reduce-en-Python](https://github.com/CatelloTheDataProjectManager/Map-Reduce-en-Python/blob/main/Map-Reduce%20en%20Python.ipynb).
 
 N'hésitez pas à explorer le code et à l'adapter selon vos besoins ou à en tirer des enseignements pour vos propres projets. Si vous avez des questions ou des suggestions, n'hésitez pas à les partager. Merci pour votre intérêt !
 
